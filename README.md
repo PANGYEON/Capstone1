@@ -1,20 +1,31 @@
-<<<<<<< HEAD
-# flutter_application_2
+# 동의대학교(캡스톤프로젝트 I)
 
-A new Flutter project.
+프로젝트 기간 : 2022년 9월 19일 → 2022년 12월 7일
 
-## Getting Started
+태그 : Dart, Flutter
 
-This project is a starting point for a Flutter application.
+한 줄 설명 : 날씨에 맞춰서 음악을 추천해주는 어플
 
-A few resources to get you started if this is your first Flutter project:
+개발 인원(역할) : 4명 (프론트엔드 개발)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📖 내용
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Capstone1
->>>>>>> 8bbfd29b6b2a221e31173fa991f4a1bfde761aff
+- 선정 배경
+    - 날씨 기반 음악 추천으로 사용자의 일상에 새로운 감성을 더하기 위해 개발
+    - 기존의 개인 취향 중심 추천과 달리, 날씨 데이터를 활용해 감성적인 음악 경험을 제공
+- 서비스 대상
+    - 날씨에 맞춰서 음악을 추천받고 싶은 사용자
+- 기대 효과
+    - 사용자의 알고리즘에 맞춘 음악 추천이 아닌 날씨(온도, 습도, 계절)에 영향을 받아 사용자에게 음악을 추천해줄 수 있다.
+
+![캡스톤1 썸네일.jpg](%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD(%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20I)%20e8c20ae0f59d4928a2f5af79de8be95f/%25EC%25BA%25A1%25EC%258A%25A4%25ED%2586%25A41_%25EC%258D%25B8%25EB%2584%25A4%25EC%259D%25BC.jpg)
+
+### 🙋‍♂️ 역할
+
+- **음악 분류 및 프론트엔드 개발**
+    - 날씨 조건에 맞는 음악을 선별하고 분류하는 작업을 담당
+    - 프론트엔드 개발 과정에 참여하여 사용자 인터페이스 설계 및 구현에 기여함
+
+### ✔ 배운점
+
+- 프로젝트를 통해 API 사용법을 처음으로 학습하고 실제 개발 환경에서 적용하는 경험을 통해 API 활용 능력을 개발하였습니다.
